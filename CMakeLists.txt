@@ -6,7 +6,8 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(C_PROGRAMMING_LAB
-#        "P15.3_Logical Operators.c"
+        "P15.4_Shift Operators.c"
+        #        "P15.3_Logical Operators.c"
         #        "P15.2_Bitwise Operators.c"
         #        "P15.1_Relational Operators.c"
         #        "P14_Right angled Triangle.c"

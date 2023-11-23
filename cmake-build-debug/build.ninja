@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/prith/OneDrive/Documents/GitHub/C_PROGRAMMING_LA
 
 build cmake_object_order_depends_target_C_PROGRAMMING_LAB: phony || CMakeFiles/C_PROGRAMMING_LAB.dir
 
-build CMakeFiles/C_PROGRAMMING_LAB.dir/P15.3_Logical_Operators.c.obj: C_COMPILER__C_PROGRAMMING_LAB_unscanned_Debug C$:/Users/prith/OneDrive/Documents/GitHub/C_PROGRAMMING_LAB/P15.3_Logical$ Operators.c || cmake_object_order_depends_target_C_PROGRAMMING_LAB
-  DEP_FILE = CMakeFiles\C_PROGRAMMING_LAB.dir\P15.3_Logical_Operators.c.obj.d
+build CMakeFiles/C_PROGRAMMING_LAB.dir/P15.4_Shift_Operators.c.obj: C_COMPILER__C_PROGRAMMING_LAB_unscanned_Debug C$:/Users/prith/OneDrive/Documents/GitHub/C_PROGRAMMING_LAB/P15.4_Shift$ Operators.c || cmake_object_order_depends_target_C_PROGRAMMING_LAB
+  DEP_FILE = CMakeFiles\C_PROGRAMMING_LAB.dir\P15.4_Shift_Operators.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/prith/OneDrive/Documents/GitHub/C_PROGRAMMING_LAB/.
   OBJECT_DIR = CMakeFiles\C_PROGRAMMING_LAB.dir
@@ -64,7 +64,7 @@ build CMakeFiles/C_PROGRAMMING_LAB.dir/P15.3_Logical_Operators.c.obj: C_COMPILER
 #############################################
 # Link the executable C_PROGRAMMING_LAB.exe
 
-build C_PROGRAMMING_LAB.exe: C_EXECUTABLE_LINKER__C_PROGRAMMING_LAB_Debug CMakeFiles/C_PROGRAMMING_LAB.dir/P15.3_Logical_Operators.c.obj
+build C_PROGRAMMING_LAB.exe: C_EXECUTABLE_LINKER__C_PROGRAMMING_LAB_Debug CMakeFiles/C_PROGRAMMING_LAB.dir/P15.4_Shift_Operators.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_PROGRAMMING_LAB.dir
